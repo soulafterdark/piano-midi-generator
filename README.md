@@ -1,3 +1,5 @@
+![Piano MIDI Generator Banner](banner.png)
+
 # Piano MIDI Generator (v0.2)
 
 A Python/Colab-based **Piano MIDI Generator** for creating house/EDM-friendly piano patterns. This tool generates structured MIDI files you can drop directly into Ableton, FL Studio, Logic, or any DAW.
