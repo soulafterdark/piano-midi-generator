@@ -1,4 +1,4 @@
-[Piano MIDI Generator Banner](Banner.png)
+![Piano MIDI Generator Banner](Banner.png)
 
 # Piano MIDI Generator (v0.2)
 
