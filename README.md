@@ -1,4 +1,7 @@
 ![Piano MIDI Generator Banner](Banner.png)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Built in Colab](https://img.shields.io/badge/Built%20in-Colab-orange)
 
 # Piano MIDI Generator (v0.2)
 
